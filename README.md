@@ -32,4 +32,4 @@ Prompt engineering is the art and science of crafting adequate inputs (prompts) 
 - Researchers and academics
 - Anyone interested in improving their interaction with AI language models
 
-Start your journey into the fascinating world of prompt engineering today and unlock the full potential of AI language models!
+*Start your journey into the fascinating world of prompt engineering today and unlock the full potential of AI language models!*
